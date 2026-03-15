@@ -21,3 +21,12 @@ Adicionar todos os ficheiros na stagging area- area de prepafacao
 ```
 git add.
 ```
+Fazer o commit
+```
+git commit -m "mensagem do commit"
+```
+enviar os commit locais para o repositorio remoto
+```
+git push <remote> <branch>
+git push origin dev-master
+```
